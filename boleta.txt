@@ -1,0 +1,9 @@
+Matrícula: 123456789
+Nombre: papu apellido mapellido
+Edad: 12
+Español: 4.0 - Estatus: Reprobado
+Matemáticas: 2.0 - Estatus: Reprobado
+Computación: 5.0 - Estatus: Reprobado
+Física: 7.0 - Estatus: Aprobado
+Química: 9.0 - Estatus: Aprobado
+Promedio: 5.4 - Estatus: Reprobado
